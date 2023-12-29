@@ -1,0 +1,9 @@
+Sıcak İçecekler#çay#10
+Sıcak İçecekler#kahve#20
+Sıcak İçecekler#oralet#33
+Sıcak İçecekler#nane limon#15
+Sıcak İçecekler#sıcak#5
+Sıcak İçecekler#limon#12
+Sıcak İçecekler#deneme#15
+Sıcak İçecekler#yeşil çay#44
+

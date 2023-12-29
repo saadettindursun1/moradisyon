@@ -1,0 +1,30 @@
+masa_no#1#masa_isim#Masa - 1
+masa_no#2#masa_isim#Masa -2
+masa_no#3#masa_isim#Masa - 3
+masa_no#4#masa_isim#Masa - 4
+masa_no#5#masa_isim#Masa - 5
+masa_no#6#masa_isim#Masa - 6
+masa_no#7#masa_isim#Masa - 7
+masa_no#8#masa_isim#Masa - 8
+masa_no#9#masa_isim#Masa - 9
+masa_no#10#masa_isim#Masa - 10
+masa_no#11#masa_isim#Masa - 11
+masa_no#12#masa_isim#Masa - 12
+masa_no#13#masa_isim#Masa - 13
+masa_no#14#masa_isim#Masa - 14
+masa_no#15#masa_isim#Masa - 15
+masa_no#16#masa_isim#Masa - 16
+masa_no#17#masa_isim#Masa - 17
+masa_no#18#masa_isim#Masa - 18
+masa_no#19#masa_isim#Masa - 19
+masa_no#20#masa_isim#Masa - 20
+masa_no#21#masa_isim#Masa - 21
+masa_no#22#masa_isim#Masa - 22
+masa_no#23#masa_isim#Masa - 23
+masa_no#24#masa_isim#Masa - 24
+masa_no#25#masa_isim#Masa - 25
+masa_no#26#masa_isim#Masa - 26
+masa_no#27#masa_isim#Masa - 27
+masa_no#28#masa_isim#Masa - 28
+masa_no#29#masa_isim#Masa - 29
+masa_no#30#masa_isim#Masa 30
